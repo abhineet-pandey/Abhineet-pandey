@@ -19,7 +19,7 @@
 
 ## Building AI systems that survive contact with the real world
 
-I am a **Senior Applied AI Researcher and Machine Learning Engineer** working at the intersection of **multimodal AI, computer vision, media forensics, trustworthy LLM systems, and production ML**.
+I am a **Applied AI Researcher and Machine Learning Engineer** working at the intersection of **multimodal AI, computer vision, media forensics, trustworthy LLM systems, and production ML**.
 
 My work spans the full research lifecycle—from problem formulation and model design to rigorous evaluation, scalable implementation, and deployment. I focus on AI systems that are not only accurate, but also **grounded, measurable, reproducible, observable, and useful in real operating environments**.
 
@@ -192,7 +192,7 @@ I publish tools that make AI research, remote computing, scientific writing, and
 
 ## Let’s build dependable AI
 
-I am interested in senior applied research and engineering opportunities involving **multimodal AI, computer vision, synthetic-media forensics, trustworthy LLM applications, agentic systems, AI evaluation, and production ML platforms**.
+I am interested in applied research and engineering opportunities involving **multimodal AI, computer vision, synthetic-media forensics, trustworthy LLM applications, agentic systems, AI evaluation, and production ML platforms**.
 
 I am especially drawn to teams where researchers are expected to move beyond prototypes: define the problem, establish rigorous evaluation, make sound architectural decisions, and help deliver reliable systems.
 
