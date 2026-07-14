@@ -1,20 +1,20 @@
 <!--
   GitHub profile README for github.com/abhineet-pandey
-  Save this file as README.md in the public repository: abhineet-pandey/abhineet-pandey
+  Keep README.md and assets/meteor-header.svg together in the repository.
 -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:07111F,50:312E81,100:0369A1&text=Abhineet%20Pandey&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Senior%20Applied%20AI%20Researcher%20%C2%B7%20Multimodal%20AI%20%C2%B7%20Research-to-Production%20ML&descAlignY=62&descSize=17&animation=fadeIn" alt="Abhineet Pandey — Senior Applied AI Researcher" />
+  <a href="https://abhineet.xyz">
+    <img width="100%" src="./assets/meteor-header.svg" alt="Abhineet Pandey — Senior Applied AI Researcher under an animated meteor sky" />
+  </a>
 
-  <a href="https://abhineet.xyz"><img src="https://img.shields.io/badge/Portfolio-abhineet.xyz-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/pabhineet/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://open-vsx.org/namespace/abhineet-pandey"><img src="https://img.shields.io/badge/Open%20VSX-Developer%20Tools-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Open VSX" /></a>
-  <a href="mailto:apandey@albany.edu"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <br/>
 
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=abhineet-pandey&label=Profile%20Views&color=4338CA&style=flat-square&abbreviated=true" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/abhineet-pandey?label=Followers&style=flat-square&logo=github&color=111827" alt="GitHub followers" />
+  <a href="https://abhineet.xyz"><img src="https://img.shields.io/badge/Portfolio-abhineet.xyz-0f172a?style=flat-square&logo=googlechrome&logoColor=7dd3fc" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/pabhineet/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://open-vsx.org/namespace/abhineet-pandey"><img src="https://img.shields.io/badge/Open%20VSX-Developer%20Tools-4338ca?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Open VSX" /></a>
+  <a href="mailto:apandey@albany.edu"><img src="https://img.shields.io/badge/Email-Contact-b91c1c?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=abhineet-pandey&label=Profile%20Views&color=4338ca&style=flat-square&abbreviated=true" alt="Profile views" />
 </div>
 
 ## Building AI systems that survive contact with the real world
@@ -121,6 +121,12 @@ I publish tools that make AI research, remote computing, scientific writing, and
       <p><a href="https://open-vsx.org/extension/abhineet-pandey/texpilot"><img src="https://img.shields.io/badge/Open%20VSX-View%20Extension-5C2D91?style=flat-square&logo=visualstudiocode&logoColor=white" alt="TexPilot on Open VSX" /></a></p>
       <p><code>Research Tooling</code> <code>LaTeX</code> <code>Local-First AI</code></p>
     </td>
+    <!-- <td width="50%" valign="top">
+      <h3>📝 <a href="https://open-vsx.org/extension/abhineet-pandey/texpilot-vscode">TeXPilot LaTeX Workspace</a></h3>
+      <p>A structured scientific-writing environment for students, researchers, and technical teams using VS Code-compatible editors.</p>
+      <p><a href="https://open-vsx.org/extension/abhineet-pandey/texpilot-vscode"><img src="https://img.shields.io/badge/Open%20VSX-View%20Extension-5C2D91?style=flat-square&logo=visualstudiocode&logoColor=white" alt="TeXPilot LaTeX Workspace on Open VSX" /></a></p>
+      <p><code>Scientific Writing</code> <code>Academic Productivity</code> <code>VS Code</code></p>
+    </td> -->
   </tr>
 </table>
 
@@ -203,5 +209,6 @@ I am especially drawn to teams where researchers are expected to move beyond pro
 
   <sub><strong>Research rigor · Engineering depth · Production discipline</strong></sub>
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:07111F,50:312E81,100:0369A1&section=footer" alt="Footer" />
+  <br/>
+  <sub>From research questions to reliable AI systems.</sub>
 </div>
