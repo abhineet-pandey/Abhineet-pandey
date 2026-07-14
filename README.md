@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://abhineet.xyz">
-    <img width="100%" src="./assets/meteor-header.svg" alt="Abhineet Pandey — Senior Applied AI Researcher under an animated meteor sky" />
+    <img width="100%" src="meteor-header.svg" alt="Abhineet Pandey — Senior Applied AI Researcher under an animated meteor sky" />
   </a>
 
   <br/>
